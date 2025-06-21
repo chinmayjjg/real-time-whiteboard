@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 Real-Time Collaborative Whiteboard
 
 A simple, real-time collaborative whiteboard application built with Node.js, Express, and Socket.IO. This project allows multiple users to draw on the same canvas simultaneously, with changes appearing instantly on everyone's screen.
@@ -71,3 +72,6 @@ A simple, real-time collaborative whiteboard application built with Node.js, Exp
 |-- server.js           # The backend server code
 |-- README.md           # This file
 ``` 
+=======
+# real-time-whiteboard
+>>>>>>> 05859917069b2a59aaec3b205b76cdea7926f5d2
